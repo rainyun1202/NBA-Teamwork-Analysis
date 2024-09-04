@@ -4,7 +4,7 @@
 ## Overview
 This project is focused on analyzing NBA teamwork using data scraping, processing, analysis, and regression modeling techniques.
 The analysis includes player performance, teamwork metrics, and the development of predictive models.
-This project is part of my Master's thesis, which can be accessed [here](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22112FCU00389005%22.&searchmode=basic).
+This project is part of my Master's thesis, which can be accessed [here](https://hdl.handle.net/11296/r9vjcz).
 
 The project is divided into three primary steps:
 1. **Web Scraping** - Collecting data on NBA players and teams.
