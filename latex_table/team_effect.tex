@@ -1,0 +1,45 @@
+
+    \documentclass{article}
+    \usepackage{booktabs}
+    \usepackage{geometry}
+    \geometry{left=1cm, top=1cm, right=1cm, bottom=2cm}
+    \usepackage{makecell}
+    \usepackage{fontspec}
+    \usepackage{xeCJK}
+    \setCJKmainfont{NotoSerifCJKtc-Regular}
+
+    \begin{document}
+    \fontsize{12pt}{14pt}\selectfont
+    
+    \begin{tabular}{lc}
+\toprule
+ & base\_model \\
+\midrule
+const & -26.955*** \\
+const\_stderr & (5.333) \\
+OREB & 0.090 \\
+OREB\_stderr & (0.133) \\
+DREB & 0.637*** \\
+DREB\_stderr & (0.109) \\
+AST & 0.264** \\
+AST\_stderr & (0.092) \\
+TOV & -0.621*** \\
+TOV\_stderr & (0.153) \\
+STL & 0.539** \\
+STL\_stderr & (0.185) \\
+std\_pass\_out & -0.172 \\
+std\_pass\_out\_stderr & (0.092) \\
+\midrule
+Observations &    429 \\
+AIC &    2729 \\
+BIC &    2757 \\
+R-squared &    0.143 \\
+Adj R-squared &    0.131 \\
+\bottomrule
+\end{tabular}
+
+    
+    \fontsize{11pt}{14pt}\selectfont
+    註：*: p<0.05; **: p<0.01; ***: p<0.001，括弧內的數字為標準誤。
+    \end{document}
+    
