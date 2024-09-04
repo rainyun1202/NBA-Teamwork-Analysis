@@ -1,0 +1,3 @@
+運行 pass_to_scraper 取得傳球數據後，更改部份球員在不同數據中命名不同造成無法匹配的問題。
+Reggie Bullock Jr. 在 pass_data_14_22 中皆改為 Reggie Bullock
+OG Anunoby 在 pass_data_14_22 中皆改為 O.G. Anunoby

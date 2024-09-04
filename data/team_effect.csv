@@ -1,0 +1,430 @@
+year,team,player_1,player_2,player_3,player_4,player_5,PM_minus_RAPM,Appearances
+2014,Atlanta Hawks,Kyle Korver,Paul Millsap,Al Horford,Jeff Teague,DeMarre Carroll,-7.66746076050465,1563
+2014,Brooklyn Nets,Paul Pierce,Joe Johnson,Shaun Livingston,Deron Williams,Mason Plumlee,-4.528961189195014,1051
+2014,Los Angeles Lakers,Pau Gasol,Jodie Meeks,Wesley Johnson,Kendall Marshall,Ryan Kelly,0.8468081133233114,812
+2014,Minnesota Timberwolves,Kevin Martin,Corey Brewer,Kevin Love,Ricky Rubio,Gorgui Dieng,-6.813515756487114,906
+2014,Denver Nuggets,Randy Foye,Wilson Chandler,JJ Hickson,Ty Lawson,Kenneth Faried,1.9873023048937124,2019
+2014,Oklahoma City Thunder,Kendrick Perkins,Thabo Sefolosha,Kevin Durant,Serge Ibaka,Reggie Jackson,-3.4994610206880736,2161
+2014,Houston Rockets,Dwight Howard,James Harden,Patrick Beverley,Chandler Parsons,Terrence Jones,-8.114451419801036,2541
+2014,Golden State Warriors,Andrew Bogut,David Lee,Stephen Curry,Klay Thompson,Harrison Barnes,-14.009803949839284,1294
+2014,Minnesota Timberwolves,Kevin Martin,Corey Brewer,Kevin Love,Nikola Pekovic,Ricky Rubio,-0.5645945943544604,4376
+2014,Indiana Pacers,David West,Roy Hibbert,George Hill,Paul George,Lance Stephenson,-2.4612556136379915,6955
+2014,Washington Wizards,Trevor Ariza,Marcin Gortat,John Wall,Trevor Booker,Bradley Beal,-5.306235835343657,2786
+2014,Washington Wizards,Trevor Ariza,Martell Webster,Marcin Gortat,John Wall,Trevor Booker,2.678905736655671,847
+2014,Oklahoma City Thunder,Kendrick Perkins,Thabo Sefolosha,Kevin Durant,Russell Westbrook,Serge Ibaka,-15.31382648981885,2001
+2014,Memphis Grizzlies,Zach Randolph,Tayshaun Prince,Mike Conley,Marc Gasol,Courtney Lee,2.1269709420777065,2444
+2014,Atlanta Hawks,Kyle Korver,Paul Millsap,Jeff Teague,DeMarre Carroll,Pero Antic,-5.77395801747757,1553
+2014,Chicago Bulls,Mike Dunleavy,Carlos Boozer,Kirk Hinrich,Joakim Noah,Jimmy Butler,0.6240476731015185,2837
+2014,Chicago Bulls,Mike Dunleavy,Joakim Noah,D.J. Augustin,Taj Gibson,Jimmy Butler,0.15694692537802446,828
+2014,Chicago Bulls,Kirk Hinrich,Joakim Noah,D.J. Augustin,Taj Gibson,Jimmy Butler,3.8228026639058967,938
+2014,Philadelphia 76ers,Thaddeus Young,James Anderson,Hollis Thompson,Henry Sims,Michael Carter-Williams,-2.6187826316010376,1227
+2014,Portland Trail Blazers,LaMarcus Aldridge,Robin Lopez,Nicolas Batum,Wesley Matthews,Damian Lillard,-4.8878947364327985,6284
+2014,Phoenix Suns,Channing Frye,P.J. Tucker,Goran Dragic,Eric Bledsoe,Miles Plumlee,2.7946226275125827,1696
+2014,Toronto Raptors,Amir Johnson,Kyle Lowry,DeMar DeRozan,Jonas Valanciunas,Terrence Ross,-3.135465043130465,3036
+2014,New York Knicks,Tyson Chandler,Amar'e Stoudemire,Carmelo Anthony,JR Smith,Raymond Felton,0.6123223172230443,1051
+2014,Washington Wizards,Nene,Trevor Ariza,Marcin Gortat,John Wall,Bradley Beal,0.05067120239299072,2709
+2014,Washington Wizards,Nene,Trevor Ariza,Martell Webster,Marcin Gortat,John Wall,2.335812774392319,997
+2014,Golden State Warriors,Andre Iguodala,Andrew Bogut,David Lee,Stephen Curry,Klay Thompson,-4.112373062539719,3311
+2014,Utah Jazz,Richard Jefferson,Marvin Williams,Derrick Favors,Gordon Hayward,Trey Burke,0.998107422684509,2279
+2014,Sacramento Kings,Rudy Gay,Jason Thompson,DeMarcus Cousins,Isaiah Thomas,Ben McLemore,-10.661264579744454,1273
+2014,LA Clippers,Jamal Crawford,Chris Paul,Jared Dudley,DeAndre Jordan,Blake Griffin,-6.662828481836043,1112
+2014,Dallas Mavericks,Dirk Nowitzki,Shawn Marion,Samuel Dalembert,Monta Ellis,Jose Calderon,-4.665470320114469,3592
+2014,Dallas Mavericks,Vince Carter,Shawn Marion,Samuel Dalembert,Monta Ellis,Jose Calderon,-7.259378510623591,1059
+2014,Boston Celtics,Brandon Bass,Jeff Green,Avery Bradley,Jordan Crawford,Jared Sullinger,-3.148799442791467,1475
+2014,Detroit Pistons,Josh Smith,Brandon Jennings,Greg Monroe,Andre Drummond,Kentavious Caldwell-Pope,-6.431975352705015,2011
+2014,Detroit Pistons,Josh Smith,Rodney Stuckey,Brandon Jennings,Greg Monroe,Kyle Singler,-6.926361844620291,974
+2014,Toronto Raptors,Amir Johnson,Rudy Gay,Kyle Lowry,DeMar DeRozan,Jonas Valanciunas,-15.79983519775066,907
+2014,Detroit Pistons,Josh Smith,Brandon Jennings,Greg Monroe,Kyle Singler,Andre Drummond,-8.308265673633938,1800
+2014,Philadelphia 76ers,Spencer Hawes,Thaddeus Young,Evan Turner,James Anderson,Michael Carter-Williams,-3.6434848802973594,2447
+2014,Houston Rockets,Dwight Howard,James Harden,Jeremy Lin,Chandler Parsons,Terrence Jones,-3.5769169135171843,1370
+2014,Cleveland Cavaliers,Luol Deng,Jarrett Jack,Spencer Hawes,Kyrie Irving,Tristan Thompson,7.252886308500442,925
+2014,San Antonio Spurs,Tim Duncan,Tony Parker,Tiago Splitter,Danny Green,Kawhi Leonard,-1.4726569637788227,1702
+2014,San Antonio Spurs,Tim Duncan,Manu Ginobili,Tony Parker,Boris Diaw,Kawhi Leonard,-10.601324452094936,1253
+2014,Sacramento Kings,Rudy Gay,Jason Thompson,Marcus Thornton,DeMarcus Cousins,Isaiah Thomas,4.079443090430303,891
+2014,Phoenix Suns,Channing Frye,Gerald Green,P.J. Tucker,Goran Dragic,Miles Plumlee,-6.355502954604087,2088
+2014,Dallas Mavericks,Dirk Nowitzki,Shawn Marion,Monta Ellis,Jose Calderon,DeJuan Blair,-3.189708630396643,961
+2014,LA Clippers,Matt Barnes,Chris Paul,DeAndre Jordan,Blake Griffin,Darren Collison,-1.5362935088474323,1318
+2014,LA Clippers,Jamal Crawford,Matt Barnes,Chris Paul,DeAndre Jordan,Blake Griffin,2.7142762142319192,1230
+2014,Portland Trail Blazers,Dorell Wright,Robin Lopez,Nicolas Batum,Wesley Matthews,Damian Lillard,-1.131980989196844,868
+2014,Miami Heat,Shane Battier,LeBron James,Chris Bosh,Dwyane Wade,Mario Chalmers,-6.660230017486643,1998
+2014,Brooklyn Nets,Kevin Garnett,Paul Pierce,Joe Johnson,Shaun Livingston,Deron Williams,9.11497405610456,913
+2014,LA Clippers,Chris Paul,JJ Redick,Jared Dudley,DeAndre Jordan,Blake Griffin,-9.237479487854944,1158
+2015,Cleveland Cavaliers,LeBron James,JR Smith,Kevin Love,Timofey Mozgov,Kyrie Irving,2.2567533070354244,2103
+2015,Dallas Mavericks,Dirk Nowitzki,Tyson Chandler,Jameer Nelson,Monta Ellis,Chandler Parsons,1.8045044399030026,1006
+2015,Portland Trail Blazers,LaMarcus Aldridge,Robin Lopez,Nicolas Batum,Wesley Matthews,Damian Lillard,-2.595956217577557,2456
+2015,Houston Rockets,Dwight Howard,Trevor Ariza,James Harden,Patrick Beverley,Donatas Motiejunas,-2.3391711948829226,1417
+2015,Milwaukee Bucks,Zaza Pachulia,Ersan Ilyasova,Khris Middleton,Michael Carter-Williams,Giannis Antetokounmpo,-1.7244171114762459,1590
+2015,Toronto Raptors,Lou Williams,Tyler Hansbrough,James Johnson,Patrick Patterson,Greivis Vasquez,8.292689423862521,862
+2015,Indiana Pacers,David West,Rodney Stuckey,C.J. Watson,Roy Hibbert,Solomon Hill,-14.18273249453512,962
+2015,Phoenix Suns,P.J. Tucker,Goran Dragic,Eric Bledsoe,Markieff Morris,Alex Len,-0.8204839789223399,1579
+2015,Oklahoma City Thunder,Kevin Durant,Russell Westbrook,Serge Ibaka,Andre Roberson,Steven Adams,-1.0149626191477754,964
+2015,Atlanta Hawks,Kyle Korver,Paul Millsap,Al Horford,Jeff Teague,DeMarre Carroll,-6.512192260475839,4574
+2015,Brooklyn Nets,Joe Johnson,Deron Williams,Thaddeus Young,Brook Lopez,Markel Brown,1.0216852120349635,1002
+2015,Brooklyn Nets,Joe Johnson,Deron Williams,Thaddeus Young,Brook Lopez,Bojan Bogdanovic,-13.235150484024977,894
+2015,San Antonio Spurs,Tim Duncan,Tony Parker,Tiago Splitter,Danny Green,Kawhi Leonard,2.70702815071445,1303
+2015,San Antonio Spurs,Tim Duncan,Tony Parker,Boris Diaw,Danny Green,Kawhi Leonard,-3.4880825398718933,1159
+2015,Golden State Warriors,Andrew Bogut,Stephen Curry,Klay Thompson,Harrison Barnes,Draymond Green,-3.798673362697979,4311
+2015,Golden State Warriors,Andre Iguodala,Andrew Bogut,Stephen Curry,Klay Thompson,Draymond Green,0.3556425055176078,1006
+2015,Golden State Warriors,Marreese Speights,Stephen Curry,Klay Thompson,Harrison Barnes,Draymond Green,-4.043980768100106,875
+2015,Golden State Warriors,Andre Iguodala,Stephen Curry,Klay Thompson,Harrison Barnes,Draymond Green,-7.476891660953655,854
+2015,Washington Wizards,Paul Pierce,Nene,Marcin Gortat,John Wall,Bradley Beal,-7.101801346794798,2657
+2015,Detroit Pistons,Brandon Jennings,Greg Monroe,Kyle Singler,Andre Drummond,Kentavious Caldwell-Pope,0.5893966538504216,1007
+2015,LA Clippers,Matt Barnes,Chris Paul,JJ Redick,DeAndre Jordan,Blake Griffin,-3.3746114774507667,5700
+2015,LA Clippers,Jamal Crawford,Chris Paul,JJ Redick,DeAndre Jordan,Blake Griffin,-5.516002863389581,1213
+2015,Toronto Raptors,Amir Johnson,Kyle Lowry,DeMar DeRozan,Jonas Valanciunas,Terrence Ross,-1.2974501788269617,1670
+2015,Los Angeles Lakers,Kobe Bryant,Carlos Boozer,Jordan Hill,Wesley Johnson,Jeremy Lin,-10.465722028505159,1367
+2015,Utah Jazz,Derrick Favors,Gordon Hayward,Enes Freedom,Alec Burks,Trey Burke,-3.178925895521169,1222
+2015,Boston Celtics,Brandon Bass,Evan Turner,Avery Bradley,Tyler Zeller,Marcus Smart,-9.261404702511243,1368
+2015,Indiana Pacers,David West,CJ Miles,Roy Hibbert,George Hill,Solomon Hill,-3.87004489932981,1444
+2015,Memphis Grizzlies,Zach Randolph,Mike Conley,Jeff Green,Marc Gasol,Courtney Lee,-8.663146574358985,1867
+2015,Memphis Grizzlies,Zach Randolph,Tony Allen,Mike Conley,Marc Gasol,Courtney Lee,-10.021790598432077,2073
+2015,Denver Nuggets,Wilson Chandler,Arron Afflalo,Ty Lawson,Kenneth Faried,Jusuf Nurkic,-6.5054187972397575,1052
+2015,Dallas Mavericks,Dirk Nowitzki,Tyson Chandler,Monta Ellis,Rajon Rondo,Chandler Parsons,-10.579476996103626,1854
+2015,Orlando Magic,Channing Frye,Nikola Vucevic,Tobias Harris,Evan Fournier,Victor Oladipo,-5.461452586100025,817
+2015,Washington Wizards,Paul Pierce,Kris Humphries,Marcin Gortat,John Wall,Bradley Beal,-8.949037219952878,1221
+2015,Chicago Bulls,Pau Gasol,Mike Dunleavy,Joakim Noah,Derrick Rose,Jimmy Butler,-8.693726328741157,1944
+2015,Phoenix Suns,Goran Dragic,Eric Bledsoe,Markieff Morris,Marcus Morris Sr.,Miles Plumlee,-2.1087761295208836,938
+2015,Cleveland Cavaliers,Shawn Marion,LeBron James,Anderson Varejao,Kevin Love,Kyrie Irving,-5.916482817856718,1000
+2015,LA Clippers,Jamal Crawford,Matt Barnes,Chris Paul,DeAndre Jordan,Blake Griffin,-4.849300970803107,938
+2015,Sacramento Kings,Rudy Gay,Jason Thompson,Darren Collison,DeMarcus Cousins,Ben McLemore,7.492374425756299,1713
+2015,Denver Nuggets,Wilson Chandler,Arron Afflalo,Ty Lawson,Timofey Mozgov,Kenneth Faried,-4.176838723277011,1638
+2015,New Orleans Pelicans,Eric Gordon,Omer Asik,Tyreke Evans,Quincy Pondexter,Anthony Davis,-3.4465351808836004,1514
+2015,Los Angeles Lakers,Kobe Bryant,Ronnie Price,Jordan Hill,Wesley Johnson,Ed Davis,-4.841165726470499,1053
+2015,New Orleans Pelicans,Omer Asik,Tyreke Evans,Jrue Holiday,Luke Babbitt,Anthony Davis,-10.594732807126771,801
+2015,Denver Nuggets,Randy Foye,Wilson Chandler,Danilo Gallinari,Ty Lawson,Kenneth Faried,6.715655384587234,1049
+2015,Portland Trail Blazers,LaMarcus Aldridge,Arron Afflalo,Robin Lopez,Nicolas Batum,Damian Lillard,-13.351187795737847,1380
+2015,Washington Wizards,Paul Pierce,Nene,Marcin Gortat,Garrett Temple,John Wall,2.3534597681962612,938
+2016,Orlando Magic,Nikola Vucevic,Evan Fournier,Victor Oladipo,Elfrid Payton,Aaron Gordon,-7.238308616122222,919
+2016,Boston Celtics,Amir Johnson,Avery Bradley,Isaiah Thomas,Jared Sullinger,Jae Crowder,-9.139145021857923,2922
+2016,Minnesota Timberwolves,Tayshaun Prince,Ricky Rubio,Gorgui Dieng,Andrew Wiggins,Karl-Anthony Towns,-9.546197839454347,1014
+2016,Minnesota Timberwolves,Ricky Rubio,Gorgui Dieng,Zach LaVine,Andrew Wiggins,Karl-Anthony Towns,-2.2214827133095016,2618
+2016,Cleveland Cavaliers,LeBron James,JR Smith,Kevin Love,Kyrie Irving,Tristan Thompson,-4.876401658197819,3157
+2016,Cleveland Cavaliers,LeBron James,JR Smith,Kevin Love,Timofey Mozgov,Kyrie Irving,-19.846790574348937,1015
+2016,Oklahoma City Thunder,Kevin Durant,Russell Westbrook,Serge Ibaka,Andre Roberson,Steven Adams,-2.143421322224242,4337
+2016,Oklahoma City Thunder,Kevin Durant,Russell Westbrook,Serge Ibaka,Dion Waiters,Steven Adams,-3.6928101558176873,1791
+2016,Chicago Bulls,Pau Gasol,Derrick Rose,Nikola Mirotic,Jimmy Butler,Tony Snell,-8.53455575965238,803
+2016,Utah Jazz,Derrick Favors,Gordon Hayward,Rudy Gobert,Raul Neto,Rodney Hood,-0.5219115152073908,1143
+2016,Golden State Warriors,Andrew Bogut,Stephen Curry,Klay Thompson,Harrison Barnes,Draymond Green,-7.969625888791157,2801
+2016,Golden State Warriors,Andrew Bogut,Brandon Rush,Stephen Curry,Klay Thompson,Draymond Green,-2.0913143405398955,1091
+2016,Houston Rockets,Dwight Howard,Trevor Ariza,Corey Brewer,James Harden,Patrick Beverley,-19.31870687168332,839
+2016,LA Clippers,Chris Paul,JJ Redick,DeAndre Jordan,Luc Mbah a Moute,Blake Griffin,0.8986634605175503,1325
+2016,Miami Heat,Chris Bosh,Dwyane Wade,Luol Deng,Goran Dragic,Hassan Whiteside,-7.330857141655833,1289
+2016,Portland Trail Blazers,Al-Farouq Aminu,Damian Lillard,CJ McCollum,Mason Plumlee,Noah Vonleh,-7.537424995225061,2414
+2016,Atlanta Hawks,Kyle Korver,Paul Millsap,Al Horford,Jeff Teague,Kent Bazemore,-2.4631713882795925,4162
+2016,Golden State Warriors,Andre Iguodala,Andrew Bogut,Stephen Curry,Klay Thompson,Draymond Green,5.877144347566055,945
+2016,Golden State Warriors,Andre Iguodala,Stephen Curry,Klay Thompson,Harrison Barnes,Draymond Green,18.577709732386232,1228
+2016,Atlanta Hawks,Kyle Korver,Thabo Sefolosha,Paul Millsap,Al Horford,Jeff Teague,-2.8494382170301664,958
+2016,Toronto Raptors,DeMar DeRozan,Patrick Patterson,Bismack Biyombo,Cory Joseph,Terrence Ross,8.539204025489834,970
+2016,Milwaukee Bucks,Jerryd Bayless,Greg Monroe,Khris Middleton,Giannis Antetokounmpo,Jabari Parker,-2.488529982732205,1119
+2016,Washington Wizards,Marcin Gortat,John Wall,Markieff Morris,Bradley Beal,Otto Porter Jr.,1.713393156912895,819
+2016,Washington Wizards,Marcin Gortat,Jared Dudley,John Wall,Bradley Beal,Otto Porter Jr.,5.877262109811093,943
+2016,Washington Wizards,Marcin Gortat,Jared Dudley,Garrett Temple,John Wall,Otto Porter Jr.,-11.136152402460542,1252
+2016,Houston Rockets,Dwight Howard,Trevor Ariza,James Harden,Patrick Beverley,Donatas Motiejunas,2.25313627181108,1408
+2016,Indiana Pacers,Ian Mahinmi,Monta Ellis,George Hill,Paul George,Myles Turner,-3.357369518576105,2066
+2016,Charlotte Hornets,Marvin Williams,Courtney Lee,Nicolas Batum,Kemba Walker,Cody Zeller,-0.6224390319072306,1768
+2016,Milwaukee Bucks,Greg Monroe,Khris Middleton,Michael Carter-Williams,Giannis Antetokounmpo,Jabari Parker,-9.491321876850147,2103
+2016,Dallas Mavericks,Dirk Nowitzki,Zaza Pachulia,Deron Williams,Wesley Matthews,Chandler Parsons,-6.111813783173827,1561
+2016,LA Clippers,Paul Pierce,Chris Paul,JJ Redick,DeAndre Jordan,Luc Mbah a Moute,-3.67898619143698,1459
+2016,Orlando Magic,Channing Frye,Nikola Vucevic,Tobias Harris,Evan Fournier,Elfrid Payton,2.382025030575482,1283
+2016,Brooklyn Nets,Joe Johnson,Thaddeus Young,Brook Lopez,Wayne Ellington,Donald Sloan,1.3017417104374982,1590
+2016,Chicago Bulls,Pau Gasol,Derrick Rose,Taj Gibson,Jimmy Butler,Tony Snell,-7.235788197064442,800
+2016,New York Knicks,Carmelo Anthony,Jose Calderon,Arron Afflalo,Robin Lopez,Kristaps Porzingis,-5.988221611487457,2840
+2016,Detroit Pistons,Ersan Ilyasova,Marcus Morris Sr.,Reggie Jackson,Andre Drummond,Kentavious Caldwell-Pope,-1.9142930717659223,3547
+2016,San Antonio Spurs,Tim Duncan,Tony Parker,LaMarcus Aldridge,Danny Green,Kawhi Leonard,-8.70484975108009,3198
+2016,Los Angeles Lakers,Kobe Bryant,Roy Hibbert,Jordan Clarkson,Julius Randle,D'Angelo Russell,-7.3593138372907845,2341
+2016,Los Angeles Lakers,Kobe Bryant,Lou Williams,Roy Hibbert,Jordan Clarkson,Larry Nance Jr.,-11.85959583228139,885
+2016,Minnesota Timberwolves,Kevin Garnett,Tayshaun Prince,Ricky Rubio,Andrew Wiggins,Karl-Anthony Towns,1.200428956251371,1057
+2016,Brooklyn Nets,Joe Johnson,Jarrett Jack,Thaddeus Young,Brook Lopez,Rondae Hollis-Jefferson,-5.585738298088339,919
+2016,Brooklyn Nets,Joe Johnson,Jarrett Jack,Thaddeus Young,Brook Lopez,Bojan Bogdanovic,-6.393055059716338,1166
+2016,Utah Jazz,Derrick Favors,Gordon Hayward,Shelvin Mack,Rudy Gobert,Rodney Hood,0.4111883687165694,967
+2016,Denver Nuggets,Danilo Gallinari,Kenneth Faried,Gary Harris,Nikola Jokic,Emmanuel Mudiay,-7.336413884147879,1148
+2016,Indiana Pacers,Ian Mahinmi,Monta Ellis,George Hill,Paul George,Lavoy Allen,-5.325378446773029,1408
+2016,Indiana Pacers,Ian Mahinmi,CJ Miles,Monta Ellis,George Hill,Paul George,-12.712994156570819,1447
+2016,Los Angeles Lakers,Kobe Bryant,Lou Williams,Roy Hibbert,Jordan Clarkson,Julius Randle,-11.94227869048425,805
+2016,Dallas Mavericks,Dirk Nowitzki,Zaza Pachulia,Raymond Felton,Deron Williams,Wesley Matthews,10.86519474494541,1055
+2016,San Antonio Spurs,Tony Parker,David West,LaMarcus Aldridge,Danny Green,Kawhi Leonard,-11.326846708014704,806
+2016,Toronto Raptors,Luis Scola,Kyle Lowry,DeMar DeRozan,DeMarre Carroll,Jonas Valanciunas,-7.311643243927277,1036
+2016,Detroit Pistons,Marcus Morris Sr.,Tobias Harris,Reggie Jackson,Andre Drummond,Kentavious Caldwell-Pope,-7.460050473147259,2119
+2016,Toronto Raptors,Luis Scola,Kyle Lowry,DeMar DeRozan,James Johnson,Jonas Valanciunas,-8.200484055388559,1267
+2016,Portland Trail Blazers,Al-Farouq Aminu,Damian Lillard,Maurice Harkless,CJ McCollum,Mason Plumlee,2.8134505182485867,1880
+2016,New York Knicks,Carmelo Anthony,Sasha Vujacic,Jose Calderon,Robin Lopez,Kristaps Porzingis,-3.3178873998518004,910
+2016,Miami Heat,Joe Johnson,Amar'e Stoudemire,Dwyane Wade,Luol Deng,Goran Dragic,1.872875303048045,817
+2016,Memphis Grizzlies,Zach Randolph,Tony Allen,Mike Conley,Marc Gasol,Courtney Lee,-0.26941173310252875,981
+2016,Charlotte Hornets,Marvin Williams,Nicolas Batum,Kemba Walker,Cody Zeller,PJ Hairston,-8.09989020350734,1024
+2016,Toronto Raptors,Kyle Lowry,Patrick Patterson,Bismack Biyombo,Cory Joseph,Terrence Ross,6.902668517760588,1235
+2017,Indiana Pacers,Monta Ellis,Thaddeus Young,Jeff Teague,Paul George,Myles Turner,-8.139209185685035,2579
+2017,Houston Rockets,Nene,Trevor Ariza,Eric Gordon,Ryan Anderson,James Harden,-1.4520751076068894,927
+2017,Golden State Warriors,Andre Iguodala,Kevin Durant,Stephen Curry,Klay Thompson,Draymond Green,-2.9923647980436847,1190
+2017,Houston Rockets,Trevor Ariza,Ryan Anderson,James Harden,Patrick Beverley,Clint Capela,6.397788878341164,2500
+2017,Houston Rockets,Trevor Ariza,Eric Gordon,Ryan Anderson,James Harden,Clint Capela,-7.595012007296592,1171
+2017,Phoenix Suns,Eric Bledsoe,Alex Len,T.J. Warren,Devin Booker,Marquese Chriss,-7.611295555515404,839
+2017,New York Knicks,Carmelo Anthony,Joakim Noah,Derrick Rose,Courtney Lee,Kristaps Porzingis,-6.303219689545611,1579
+2017,Washington Wizards,Marcin Gortat,John Wall,Markieff Morris,Bradley Beal,Otto Porter Jr.,-3.631425578712788,6398
+2017,Washington Wizards,Marcin Gortat,John Wall,Bradley Beal,Otto Porter Jr.,Kelly Oubre Jr.,10.743841343828862,887
+2017,Charlotte Hornets,Marvin Williams,Nicolas Batum,Kemba Walker,Michael Kidd-Gilchrist,Cody Zeller,-4.3974163746027015,3108
+2017,Oklahoma City Thunder,Russell Westbrook,Taj Gibson,Andre Roberson,Steven Adams,Victor Oladipo,-3.070192129993922,1174
+2017,Portland Trail Blazers,Al-Farouq Aminu,Damian Lillard,Maurice Harkless,CJ McCollum,Mason Plumlee,-4.123168962413667,1010
+2017,Detroit Pistons,Marcus Morris Sr.,Reggie Jackson,Jon Leuer,Andre Drummond,Kentavious Caldwell-Pope,-5.954478482163834,1608
+2017,Detroit Pistons,Ish Smith,Marcus Morris Sr.,Tobias Harris,Andre Drummond,Kentavious Caldwell-Pope,-11.170926115568285,1933
+2017,Detroit Pistons,Marcus Morris Sr.,Tobias Harris,Reggie Jackson,Andre Drummond,Kentavious Caldwell-Pope,-7.448819283147609,1480
+2017,Golden State Warriors,Zaza Pachulia,Kevin Durant,Stephen Curry,Klay Thompson,Draymond Green,-3.8882080397957246,2868
+2017,Boston Celtics,Amir Johnson,Al Horford,Avery Bradley,Isaiah Thomas,Jae Crowder,-4.7012284864199465,2010
+2017,Boston Celtics,Al Horford,Avery Bradley,Isaiah Thomas,Jae Crowder,Marcus Smart,4.776672342662405,915
+2017,Atlanta Hawks,Dwight Howard,Paul Millsap,Kent Bazemore,Dennis Schroder,Tim Hardaway Jr.,-3.4270960464584004,986
+2017,Brooklyn Nets,Randy Foye,Brook Lopez,Jeremy Lin,Rondae Hollis-Jefferson,Caris LeVert,-0.044798112496905906,1079
+2017,Portland Trail Blazers,Damian Lillard,Maurice Harkless,CJ McCollum,Noah Vonleh,Jusuf Nurkic,-1.450447464599999,916
+2017,Atlanta Hawks,Dwight Howard,Thabo Sefolosha,Paul Millsap,Kent Bazemore,Dennis Schroder,-7.840085962938666,1717
+2017,Toronto Raptors,Serge Ibaka,DeMar DeRozan,DeMarre Carroll,Jonas Valanciunas,Cory Joseph,1.3092132414499182,904
+2017,Golden State Warriors,Zaza Pachulia,Stephen Curry,Klay Thompson,Draymond Green,Patrick McCaw,-4.7820398531311366,835
+2017,Indiana Pacers,CJ Miles,Thaddeus Young,Jeff Teague,Paul George,Myles Turner,-2.7682593951279575,1878
+2017,Indiana Pacers,Thaddeus Young,Jeff Teague,Paul George,Glenn Robinson III,Myles Turner,-1.4494018933943877,1568
+2017,Miami Heat,Goran Dragic,Luke Babbitt,Hassan Whiteside,Dion Waiters,Rodney McGruder,-5.55239813263873,990
+2017,Orlando Magic,Serge Ibaka,Nikola Vucevic,Evan Fournier,Elfrid Payton,Aaron Gordon,-6.039649643361182,1148
+2017,Milwaukee Bucks,John Henson,Tony Snell,Giannis Antetokounmpo,Matthew Dellavedova,Jabari Parker,-3.9136616928087253,1567
+2017,San Antonio Spurs,Pau Gasol,Tony Parker,LaMarcus Aldridge,Danny Green,Kawhi Leonard,-1.4174827518034459,1661
+2017,Atlanta Hawks,Kyle Korver,Dwight Howard,Paul Millsap,Kent Bazemore,Dennis Schroder,-7.046652691008309,831
+2017,Minnesota Timberwolves,Ricky Rubio,Gorgui Dieng,Zach LaVine,Andrew Wiggins,Karl-Anthony Towns,-5.782152487209184,3426
+2017,Oklahoma City Thunder,Russell Westbrook,Andre Roberson,Steven Adams,Victor Oladipo,Domantas Sabonis,-8.29603643037004,2542
+2017,Chicago Bulls,Dwyane Wade,Rajon Rondo,Robin Lopez,Taj Gibson,Jimmy Butler,-1.9976676289472988,1547
+2017,Los Angeles Lakers,Lou Williams,Jordan Clarkson,Tarik Black,Larry Nance Jr.,Brandon Ingram,5.414690010840721,804
+2017,Orlando Magic,Nikola Vucevic,Terrence Ross,Evan Fournier,Elfrid Payton,Aaron Gordon,-4.338631677632383,1711
+2017,Milwaukee Bucks,Khris Middleton,Tony Snell,Giannis Antetokounmpo,Thon Maker,Malcolm Brogdon,-0.7094406248579794,844
+2017,Minnesota Timberwolves,Brandon Rush,Ricky Rubio,Gorgui Dieng,Andrew Wiggins,Karl-Anthony Towns,-3.2749763735157935,2346
+2017,LA Clippers,Jamal Crawford,Raymond Felton,Marreese Speights,Wesley Johnson,Austin Rivers,4.795551146921339,1007
+2017,Houston Rockets,Trevor Ariza,Ryan Anderson,James Harden,Patrick Beverley,Montrezl Harrell,-7.723407619759682,805
+2017,Denver Nuggets,Wilson Chandler,Danilo Gallinari,Gary Harris,Nikola Jokic,Emmanuel Mudiay,-2.1361699314496354,845
+2017,Cleveland Cavaliers,LeBron James,JR Smith,Kevin Love,Kyrie Irving,Tristan Thompson,-9.925123938417078,3074
+2017,Cleveland Cavaliers,LeBron James,Kevin Love,Kyrie Irving,Tristan Thompson,Iman Shumpert,-13.800816578047002,1063
+2017,Phoenix Suns,Tyson Chandler,Eric Bledsoe,T.J. Warren,Devin Booker,Marquese Chriss,-4.60802735264322,1220
+2017,LA Clippers,Chris Paul,JJ Redick,DeAndre Jordan,Luc Mbah a Moute,Blake Griffin,-4.700569223554531,3610
+2017,Charlotte Hornets,Marvin Williams,Nicolas Batum,Kemba Walker,Michael Kidd-Gilchrist,Frank Kaminsky,-13.16253481273713,847
+2017,Dallas Mavericks,Dirk Nowitzki,Wesley Matthews,Harrison Barnes,Seth Curry,Yogi Ferrell,3.540896531320261,1032
+2017,San Antonio Spurs,Tony Parker,LaMarcus Aldridge,Danny Green,Kawhi Leonard,Dewayne Dedmon,-5.57545124822613,1029
+2017,Los Angeles Lakers,Luol Deng,Nick Young,Timofey Mozgov,Julius Randle,D'Angelo Russell,8.699626171763457,1630
+2017,Denver Nuggets,Jameer Nelson,Wilson Chandler,Danilo Gallinari,Gary Harris,Nikola Jokic,-8.344364422690285,820
+2017,Toronto Raptors,Kyle Lowry,DeMar DeRozan,DeMarre Carroll,Jonas Valanciunas,Pascal Siakam,-17.910970759652237,1418
+2017,Memphis Grizzlies,Tony Allen,Mike Conley,Marc Gasol,Chandler Parsons,JaMychal Green,-11.88214456873775,1092
+2017,Phoenix Suns,Tyson Chandler,P.J. Tucker,Eric Bledsoe,Devin Booker,Marquese Chriss,-7.9552686365470455,1127
+2018,Houston Rockets,Trevor Ariza,Chris Paul,P.J. Tucker,James Harden,Clint Capela,-15.127415075793486,1833
+2018,Houston Rockets,Trevor Ariza,P.J. Tucker,Eric Gordon,James Harden,Clint Capela,-11.444113959794715,1028
+2018,New Orleans Pelicans,Rajon Rondo,Jrue Holiday,Nikola Mirotic,E'Twaun Moore,Anthony Davis,6.51279674915587,1627
+2018,New Orleans Pelicans,Rajon Rondo,Jrue Holiday,DeMarcus Cousins,E'Twaun Moore,Anthony Davis,-8.574779567476478,1677
+2018,Chicago Bulls,Robin Lopez,Justin Holiday,Kris Dunn,Denzel Valentine,Lauri Markkanen,-3.1027508213228807,2053
+2018,Houston Rockets,Trevor Ariza,Eric Gordon,Ryan Anderson,James Harden,Clint Capela,11.82567766401391,898
+2018,Indiana Pacers,Thaddeus Young,Darren Collison,Bojan Bogdanovic,Victor Oladipo,Domantas Sabonis,-0.5555353166373802,1562
+2018,Washington Wizards,Marcin Gortat,John Wall,Bradley Beal,Otto Porter Jr.,Kelly Oubre Jr.,6.74227037164084,873
+2018,Milwaukee Bucks,Eric Bledsoe,John Henson,Khris Middleton,Tony Snell,Giannis Antetokounmpo,-3.2727043438823618,2536
+2018,Minnesota Timberwolves,Jeff Teague,Taj Gibson,Nemanja Bjelica,Andrew Wiggins,Karl-Anthony Towns,0.7309880254663712,1579
+2018,Brooklyn Nets,DeMarre Carroll,Tyler Zeller,Allen Crabbe,Spencer Dinwiddie,Rondae Hollis-Jefferson,5.200787521878834,1243
+2018,New York Knicks,Jarrett Jack,Courtney Lee,Lance Thomas,Enes Freedom,Kristaps Porzingis,-5.41620031000345,1218
+2018,Toronto Raptors,Kyle Lowry,Serge Ibaka,DeMar DeRozan,Jonas Valanciunas,Norman Powell,-9.110152210649181,1121
+2018,Toronto Raptors,CJ Miles,Delon Wright,Jakob Poeltl,Pascal Siakam,Fred VanVleet,8.3646184300231,1407
+2018,Utah Jazz,Ricky Rubio,Derrick Favors,Rudy Gobert,Joe Ingles,Donovan Mitchell,-1.5101062448537075,2151
+2018,Utah Jazz,Ricky Rubio,Jae Crowder,Rudy Gobert,Joe Ingles,Donovan Mitchell,20.81233624493209,831
+2018,Charlotte Hornets,Dwight Howard,Marvin Williams,Nicolas Batum,Kemba Walker,Michael Kidd-Gilchrist,-3.057043523028296,4476
+2018,Golden State Warriors,Andre Iguodala,Kevin Durant,Stephen Curry,Klay Thompson,Draymond Green,-13.933138285985939,1094
+2018,Golden State Warriors,Zaza Pachulia,Kevin Durant,Stephen Curry,Klay Thompson,Draymond Green,-10.411325025937666,1755
+2018,Indiana Pacers,Thaddeus Young,Cory Joseph,Bojan Bogdanovic,Victor Oladipo,Myles Turner,3.159971747530415,1337
+2018,Los Angeles Lakers,Brook Lopez,Kentavious Caldwell-Pope,Brandon Ingram,Lonzo Ball,Kyle Kuzma,-1.7458855411890428,969
+2018,Detroit Pistons,Blake Griffin,Ish Smith,Andre Drummond,Reggie Bullock,Stanley Johnson,3.232631491950664,1092
+2018,Atlanta Hawks,Ersan Ilyasova,Miles Plumlee,Kent Bazemore,Dennis Schroder,Taurean Prince,-4.814979494952439,1449
+2018,Minnesota Timberwolves,Jeff Teague,Taj Gibson,Jimmy Butler,Andrew Wiggins,Karl-Anthony Towns,-3.6460769264304247,4696
+2018,Washington Wizards,Marcin Gortat,Markieff Morris,Bradley Beal,Tomas Satoransky,Otto Porter Jr.,0.857866164264772,2025
+2018,Toronto Raptors,Kyle Lowry,Serge Ibaka,DeMar DeRozan,Jonas Valanciunas,O.G. Anunoby,-1.5809235849246743,3859
+2018,Washington Wizards,Marcin Gortat,John Wall,Markieff Morris,Bradley Beal,Otto Porter Jr.,-2.3088499553650683,2224
+2018,Dallas Mavericks,Dirk Nowitzki,Wesley Matthews,Harrison Barnes,Dennis Smith Jr.,Maxi Kleber,-10.536218949980602,1082
+2018,Dallas Mavericks,Dirk Nowitzki,Devin Harris,J.J. Barea,Dwight Powell,Yogi Ferrell,13.429646590417855,921
+2018,Indiana Pacers,Thaddeus Young,Darren Collison,Bojan Bogdanovic,Victor Oladipo,Myles Turner,-7.118316368741404,3253
+2018,Detroit Pistons,Avery Bradley,Tobias Harris,Reggie Jackson,Andre Drummond,Stanley Johnson,-9.504561639317181,1570
+2018,Cleveland Cavaliers,LeBron James,JR Smith,Jose Calderon,Kevin Love,Jae Crowder,4.38165001899443,1401
+2018,Boston Celtics,Al Horford,Kyrie Irving,Aron Baynes,Jaylen Brown,Jayson Tatum,-3.0413556692430728,1396
+2018,Denver Nuggets,Paul Millsap,Wilson Chandler,Gary Harris,Nikola Jokic,Jamal Murray,-1.6252962948328324,1406
+2018,Oklahoma City Thunder,Carmelo Anthony,Corey Brewer,Russell Westbrook,Paul George,Steven Adams,-4.014355083775756,1815
+2018,Oklahoma City Thunder,Carmelo Anthony,Russell Westbrook,Paul George,Steven Adams,Terrance Ferguson,-7.727008151374189,964
+2018,Portland Trail Blazers,Evan Turner,Al-Farouq Aminu,Damian Lillard,CJ McCollum,Jusuf Nurkic,-0.2223511908287703,2449
+2018,Portland Trail Blazers,Al-Farouq Aminu,Damian Lillard,Maurice Harkless,CJ McCollum,Jusuf Nurkic,0.2258778832215409,1857
+2018,New York Knicks,Jarrett Jack,Courtney Lee,Enes Freedom,Tim Hardaway Jr.,Kristaps Porzingis,5.522759889001761,1503
+2018,Orlando Magic,Bismack Biyombo,Evan Fournier,Jonathon Simmons,Elfrid Payton,Aaron Gordon,-1.052805269879312,887
+2018,Minnesota Timberwolves,Taj Gibson,Jimmy Butler,Andrew Wiggins,Tyus Jones,Karl-Anthony Towns,7.7269786488930805,990
+2018,Milwaukee Bucks,Eric Bledsoe,John Henson,Khris Middleton,Giannis Antetokounmpo,Malcolm Brogdon,3.360970767800799,922
+2018,Orlando Magic,Nikola Vucevic,Evan Fournier,Jonathon Simmons,Elfrid Payton,Aaron Gordon,-13.115994548776932,845
+2018,Charlotte Hornets,Dwight Howard,Marvin Williams,Kemba Walker,Michael Kidd-Gilchrist,Jeremy Lamb,-8.621479410978719,934
+2018,Denver Nuggets,Wilson Chandler,Will Barton,Gary Harris,Nikola Jokic,Jamal Murray,-3.0944625434737834,1224
+2018,Philadelphia 76ers,JJ Redick,Robert Covington,Joel Embiid,Dario Saric,Ben Simmons,3.5056976110076974,2738
+2018,Miami Heat,Goran Dragic,James Johnson,Hassan Whiteside,Tyler Johnson,Josh Richardson,-2.9478404305967705,1023
+2018,Oklahoma City Thunder,Carmelo Anthony,Russell Westbrook,Paul George,Andre Roberson,Steven Adams,1.2216455349882018,2093
+2018,Los Angeles Lakers,Brook Lopez,Kentavious Caldwell-Pope,Julius Randle,Lonzo Ball,Kyle Kuzma,-13.650414904515728,885
+2018,Oklahoma City Thunder,Carmelo Anthony,Russell Westbrook,Paul George,Steven Adams,Alex Abrines,-2.973275980980019,850
+2018,Orlando Magic,D.J. Augustin,Nikola Vucevic,Evan Fournier,Jonathon Simmons,Aaron Gordon,-2.3039402588223856,801
+2018,Denver Nuggets,Paul Millsap,Wilson Chandler,Will Barton,Nikola Jokic,Jamal Murray,1.9202723866335685,1174
+2018,Los Angeles Lakers,Brook Lopez,Kentavious Caldwell-Pope,Larry Nance Jr.,Brandon Ingram,Lonzo Ball,-8.938783127974467,911
+2019,Atlanta Hawks,Dewayne Dedmon,Taurean Prince,John Collins,Kevin Huerter,Trae Young,-5.418373087274966,1393
+2019,Boston Celtics,Al Horford,Kyrie Irving,Marcus Morris Sr.,Marcus Smart,Jayson Tatum,-8.025868151961372,2097
+2019,Toronto Raptors,Kyle Lowry,Serge Ibaka,Danny Green,Kawhi Leonard,Pascal Siakam,-10.031080462859135,2416
+2019,Indiana Pacers,Thaddeus Young,Darren Collison,Bojan Bogdanovic,Victor Oladipo,Myles Turner,-2.992178875348361,2229
+2019,Denver Nuggets,Paul Millsap,Gary Harris,Nikola Jokic,Jamal Murray,Torrey Craig,-21.263781702047346,1553
+2019,Orlando Magic,D.J. Augustin,Nikola Vucevic,Evan Fournier,Aaron Gordon,Wes Iwundu,-0.8912370975303991,808
+2019,Orlando Magic,D.J. Augustin,Nikola Vucevic,Evan Fournier,Aaron Gordon,Jonathan Isaac,-3.7563278917707446,3815
+2019,Orlando Magic,D.J. Augustin,Nikola Vucevic,Terrence Ross,Evan Fournier,Aaron Gordon,3.640334590984022,986
+2019,Golden State Warriors,Kevin Durant,Stephen Curry,DeMarcus Cousins,Klay Thompson,Draymond Green,-4.6916085544171136,1250
+2019,Golden State Warriors,Andre Iguodala,Kevin Durant,Stephen Curry,Klay Thompson,Draymond Green,7.336992474766362,1423
+2019,Golden State Warriors,Kevin Durant,Stephen Curry,Klay Thompson,Draymond Green,Kevon Looney,-4.528680397437924,1492
+2019,Memphis Grizzlies,Mike Conley,Marc Gasol,Garrett Temple,Kyle Anderson,Jaren Jackson Jr.,0.5264882881344688,1830
+2019,Milwaukee Bucks,Brook Lopez,Eric Bledsoe,Khris Middleton,Giannis Antetokounmpo,Malcolm Brogdon,-14.899700690312569,2772
+2019,Charlotte Hornets,Marvin Williams,Nicolas Batum,Kemba Walker,Jeremy Lamb,Cody Zeller,-0.06699328359410739,2409
+2019,Brooklyn Nets,Jared Dudley,Joe Harris,D'Angelo Russell,Caris LeVert,Jarrett Allen,-3.831268378862454,874
+2019,Phoenix Suns,T.J. Warren,Devin Booker,Mikal Bridges,De'Anthony Melton,Deandre Ayton,-16.242694663778956,820
+2019,Oklahoma City Thunder,Russell Westbrook,Paul George,Steven Adams,Jerami Grant,Terrance Ferguson,-4.557518770618733,4193
+2019,Oklahoma City Thunder,Russell Westbrook,Paul George,Dennis Schroder,Steven Adams,Jerami Grant,-6.398674571442058,2113
+2019,Toronto Raptors,Serge Ibaka,Danny Green,Kawhi Leonard,Pascal Siakam,Fred VanVleet,0.6939276348108496,821
+2019,Utah Jazz,Ricky Rubio,Derrick Favors,Rudy Gobert,Joe Ingles,Donovan Mitchell,-7.724443822037406,2167
+2019,Utah Jazz,Ricky Rubio,Jae Crowder,Rudy Gobert,Joe Ingles,Donovan Mitchell,-1.6512669425993707,2127
+2019,Philadelphia 76ers,JJ Redick,Tobias Harris,Jimmy Butler,Joel Embiid,Ben Simmons,2.42909368473752,1402
+2019,Houston Rockets,Chris Paul,P.J. Tucker,Eric Gordon,James Harden,Clint Capela,-8.685139657342384,2432
+2019,San Antonio Spurs,LaMarcus Aldridge,Rudy Gay,DeMar DeRozan,Bryn Forbes,Derrick White,-2.9654330159212536,1682
+2019,Chicago Bulls,Robin Lopez,Otto Porter Jr.,Zach LaVine,Kris Dunn,Lauri Markkanen,-9.05073031241296,849
+2019,Minnesota Timberwolves,Andrew Wiggins,Dario Saric,Tyus Jones,Karl-Anthony Towns,Josh Okogie,-6.363075860564961,1258
+2019,Detroit Pistons,Blake Griffin,Wayne Ellington,Reggie Jackson,Andre Drummond,Bruce Brown,-2.1159155105151375,1204
+2019,Toronto Raptors,Kyle Lowry,Serge Ibaka,Danny Green,Pascal Siakam,Fred VanVleet,-3.899131428059487,808
+2019,Washington Wizards,Trevor Ariza,Jeff Green,Bradley Beal,Tomas Satoransky,Thomas Bryant,-1.7947047352113736,1418
+2019,Sacramento Kings,Nemanja Bjelica,Iman Shumpert,Willie Cauley-Stein,Buddy Hield,De'Aaron Fox,-5.678820583491893,2159
+2019,Indiana Pacers,Thaddeus Young,Darren Collison,Wesley Matthews,Bojan Bogdanovic,Myles Turner,-7.348696728529118,1631
+2019,Indiana Pacers,Thaddeus Young,Tyreke Evans,Darren Collison,Bojan Bogdanovic,Myles Turner,4.747018573487589,1088
+2019,San Antonio Spurs,LaMarcus Aldridge,DeMar DeRozan,Jakob Poeltl,Bryn Forbes,Derrick White,-11.47453850154487,1050
+2019,Denver Nuggets,Paul Millsap,Will Barton,Gary Harris,Nikola Jokic,Jamal Murray,-2.689118734369764,2130
+2019,Sacramento Kings,Nemanja Bjelica,Harrison Barnes,Willie Cauley-Stein,Buddy Hield,De'Aaron Fox,-8.93343572773214,1141
+2019,Washington Wizards,Trevor Ariza,Jeff Green,Bradley Beal,Tomas Satoransky,Bobby Portis,-6.368173366192957,1036
+2019,Portland Trail Blazers,Al-Farouq Aminu,Damian Lillard,Maurice Harkless,CJ McCollum,Jusuf Nurkic,-7.414419123332403,3045
+2019,LA Clippers,Danilo Gallinari,Patrick Beverley,Ivica Zubac,Shai Gilgeous-Alexander,Landry Shamet,2.249531965115323,1159
+2019,Oklahoma City Thunder,Russell Westbrook,Dennis Schroder,Steven Adams,Jerami Grant,Terrance Ferguson,-0.7334367392770771,852
+2019,Charlotte Hornets,Marvin Williams,Nicolas Batum,Bismack Biyombo,Kemba Walker,Jeremy Lamb,-9.59075956698101,860
+2019,Dallas Mavericks,DeAndre Jordan,Wesley Matthews,Harrison Barnes,Dennis Smith Jr.,Luka Doncic,-8.342568472964455,1702
+2019,Philadelphia 76ers,JJ Redick,Wilson Chandler,Jimmy Butler,Joel Embiid,Ben Simmons,-3.6924445985475103,1218
+2019,Chicago Bulls,Justin Holiday,Zach LaVine,Jabari Parker,Ryan Arcidiacono,Wendell Carter Jr.,0.46962838813320396,949
+2019,Toronto Raptors,Kyle Lowry,Marc Gasol,Danny Green,Kawhi Leonard,Pascal Siakam,-8.638051807872372,2186
+2019,Minnesota Timberwolves,Jeff Teague,Taj Gibson,Robert Covington,Andrew Wiggins,Karl-Anthony Towns,-4.0722208204569235,948
+2019,Los Angeles Lakers,LeBron James,JaVale McGee,Brandon Ingram,Lonzo Ball,Kyle Kuzma,-5.532527237893606,997
+2019,Dallas Mavericks,DeAndre Jordan,Wesley Matthews,Harrison Barnes,Jalen Brunson,Luka Doncic,-6.587609990843864,807
+2019,LA Clippers,Marcin Gortat,Danilo Gallinari,Avery Bradley,Tobias Harris,Shai Gilgeous-Alexander,-7.44694325086984,1418
+2019,Houston Rockets,Chris Paul,P.J. Tucker,James Harden,James Ennis III,Clint Capela,-17.679202038904208,845
+2019,Detroit Pistons,Blake Griffin,Reggie Jackson,Andre Drummond,Reggie Bullock,Bruce Brown,7.2724889743755075,1192
+2019,Portland Trail Blazers,Evan Turner,Al-Farouq Aminu,Damian Lillard,CJ McCollum,Jusuf Nurkic,1.3702748643210807,1095
+2019,Portland Trail Blazers,Al-Farouq Aminu,Damian Lillard,CJ McCollum,Jusuf Nurkic,Jake Layman,-1.9995475408191385,1533
+2020,Houston Rockets,P.J. Tucker,Russell Westbrook,James Harden,Robert Covington,Danuel House Jr.,-5.270237799994112,960
+2020,Cleveland Cavaliers,Kevin Love,Tristan Thompson,Cedi Osman,Collin Sexton,Darius Garland,0.8113056906304621,2777
+2020,Chicago Bulls,Tomas Satoransky,Zach LaVine,Kris Dunn,Lauri Markkanen,Wendell Carter Jr.,3.9694969859316194,1280
+2020,Los Angeles Lakers,LeBron James,JaVale McGee,Danny Green,Avery Bradley,Anthony Davis,-2.266384707837588,1638
+2020,Phoenix Suns,Ricky Rubio,Aron Baynes,Dario Saric,Kelly Oubre Jr.,Devin Booker,3.8240576299855538,1038
+2020,San Antonio Spurs,LaMarcus Aldridge,DeMar DeRozan,Trey Lyles,Dejounte Murray,Bryn Forbes,0.5055688578611892,2062
+2020,Toronto Raptors,Kyle Lowry,Marc Gasol,Pascal Siakam,Fred VanVleet,O.G. Anunoby,-0.8734281510339734,2237
+2020,Toronto Raptors,Kyle Lowry,Serge Ibaka,Pascal Siakam,Fred VanVleet,O.G. Anunoby,-13.54694347740415,1028
+2020,Milwaukee Bucks,Brook Lopez,Wesley Matthews,Eric Bledsoe,Khris Middleton,Giannis Antetokounmpo,0.872364892480249,2292
+2020,Charlotte Hornets,Cody Zeller,Terry Rozier,Miles Bridges,Devonte' Graham,P.J. Washington,8.473789448561075,1096
+2020,Atlanta Hawks,John Collins,Kevin Huerter,Trae Young,Cam Reddish,De'Andre Hunter,6.725789460177029,871
+2020,Brooklyn Nets,Spencer Dinwiddie,Joe Harris,Caris LeVert,Taurean Prince,Jarrett Allen,4.259959140778488,840
+2020,Brooklyn Nets,Garrett Temple,Spencer Dinwiddie,Joe Harris,Taurean Prince,Jarrett Allen,-3.5669093229672355,1966
+2020,Orlando Magic,Nikola Vucevic,Terrence Ross,Evan Fournier,Aaron Gordon,Markelle Fultz,3.217341697946243,936
+2020,Denver Nuggets,Paul Millsap,Will Barton,Gary Harris,Nikola Jokic,Jamal Murray,-4.4229672462771905,2954
+2020,Indiana Pacers,Justin Holiday,Doug McDermott,T.J. McConnell,Domantas Sabonis,Aaron Holiday,2.275410099643226,989
+2020,Utah Jazz,Bojan Bogdanovic,Rudy Gobert,Joe Ingles,Royce O'Neale,Donovan Mitchell,-0.2359713797480829,2306
+2020,Los Angeles Lakers,LeBron James,JaVale McGee,Danny Green,Anthony Davis,Kentavious Caldwell-Pope,-14.285415112682545,1688
+2020,Indiana Pacers,Jeremy Lamb,T.J. Warren,Myles Turner,Domantas Sabonis,Malcolm Brogdon,4.6574711649476725,1401
+2020,Toronto Raptors,Marc Gasol,Norman Powell,Pascal Siakam,Fred VanVleet,O.G. Anunoby,6.152020070356192,847
+2020,Miami Heat,Jimmy Butler,Meyers Leonard,Bam Adebayo,Duncan Robinson,Kendrick Nunn,1.4816154831721136,1937
+2020,Philadelphia 76ers,Al Horford,Tobias Harris,Joel Embiid,Josh Richardson,Ben Simmons,1.3650541366055453,1014
+2020,Orlando Magic,Nikola Vucevic,Evan Fournier,Aaron Gordon,Markelle Fultz,Jonathan Isaac,-3.8932175726678566,996
+2020,Boston Celtics,Gordon Hayward,Kemba Walker,Jaylen Brown,Jayson Tatum,Daniel Theis,-4.952507639240311,1183
+2020,Boston Celtics,Kemba Walker,Marcus Smart,Jaylen Brown,Jayson Tatum,Daniel Theis,-9.146229938589972,1518
+2020,Utah Jazz,Mike Conley,Bojan Bogdanovic,Rudy Gobert,Royce O'Neale,Donovan Mitchell,3.448824389243727,1551
+2020,Memphis Grizzlies,Jonas Valanciunas,Jae Crowder,Dillon Brooks,Jaren Jackson Jr.,Ja Morant,4.579024366607191,1749
+2020,Sacramento Kings,Nemanja Bjelica,Cory Joseph,Harrison Barnes,Richaun Holmes,Buddy Hield,-1.3208897094504115,1052
+2020,Utah Jazz,Mike Conley,Bojan Bogdanovic,Rudy Gobert,Joe Ingles,Donovan Mitchell,-14.341532586218111,964
+2020,New Orleans Pelicans,Jrue Holiday,Derrick Favors,Brandon Ingram,Lonzo Ball,Zion Williamson,7.99402226757441,1245
+2020,Oklahoma City Thunder,Chris Paul,Danilo Gallinari,Steven Adams,Terrance Ferguson,Shai Gilgeous-Alexander,-7.526779583148769,1378
+2020,Oklahoma City Thunder,Chris Paul,Danilo Gallinari,Dennis Schroder,Steven Adams,Shai Gilgeous-Alexander,19.188229124446377,938
+2020,Charlotte Hornets,Bismack Biyombo,Terry Rozier,Miles Bridges,Devonte' Graham,P.J. Washington,-0.4638333540934436,1007
+2020,Houston Rockets,P.J. Tucker,Russell Westbrook,James Harden,Clint Capela,Danuel House Jr.,0.253814363126482,1540
+2020,Oklahoma City Thunder,Chris Paul,Danilo Gallinari,Steven Adams,Shai Gilgeous-Alexander,Luguentz Dort,-10.228179706835853,1161
+2020,Portland Trail Blazers,Carmelo Anthony,Trevor Ariza,Hassan Whiteside,Damian Lillard,CJ McCollum,-0.7155431732750612,965
+2020,Dallas Mavericks,Tim Hardaway Jr.,Dwight Powell,Kristaps Porzingis,Dorian Finney-Smith,Luka Doncic,-0.671318156992287,858
+2020,Phoenix Suns,Ricky Rubio,Kelly Oubre Jr.,Devin Booker,Mikal Bridges,Deandre Ayton,10.09931769273137,950
+2020,New York Knicks,Taj Gibson,Marcus Morris Sr.,Julius Randle,Frank Ntilikina,RJ Barrett,-3.557112081357615,955
+2020,Portland Trail Blazers,Carmelo Anthony,Hassan Whiteside,Damian Lillard,Kent Bazemore,CJ McCollum,-4.256551186848497,1284
+2020,LA Clippers,Patrick Beverley,Paul George,Kawhi Leonard,Maurice Harkless,Ivica Zubac,-5.944013072800551,900
+2020,LA Clippers,Patrick Beverley,Paul George,Marcus Morris Sr.,Kawhi Leonard,Ivica Zubac,3.2620939955606296,894
+2021,New Orleans Pelicans,Eric Bledsoe,Steven Adams,Brandon Ingram,Lonzo Ball,Zion Williamson,-4.35904900254873,2501
+2021,Charlotte Hornets,Gordon Hayward,Bismack Biyombo,Terry Rozier,Devonte' Graham,P.J. Washington,-12.75179882593513,1046
+2021,Indiana Pacers,Justin Holiday,Doug McDermott,Myles Turner,Domantas Sabonis,Malcolm Brogdon,4.241722863884884,980
+2021,San Antonio Spurs,LaMarcus Aldridge,DeMar DeRozan,Dejounte Murray,Lonnie Walker IV,Keldon Johnson,-10.105642883467016,907
+2021,San Antonio Spurs,DeMar DeRozan,Dejounte Murray,Jakob Poeltl,Lonnie Walker IV,Keldon Johnson,-1.5943997942586203,814
+2021,Philadelphia 76ers,Danny Green,Tobias Harris,Seth Curry,Joel Embiid,Ben Simmons,-0.5445709147200226,3137
+2021,Phoenix Suns,Jae Crowder,Devin Booker,Cameron Payne,Mikal Bridges,Deandre Ayton,-6.476505859624506,917
+2021,Phoenix Suns,Chris Paul,Jae Crowder,Devin Booker,Mikal Bridges,Deandre Ayton,-9.913570972841814,4387
+2021,Portland Trail Blazers,Damian Lillard,CJ McCollum,Robert Covington,Jusuf Nurkic,Norman Powell,-0.244295564292214,2037
+2021,Portland Trail Blazers,Damian Lillard,CJ McCollum,Robert Covington,Jusuf Nurkic,Derrick Jones Jr.,-2.8728139592180018,863
+2021,Phoenix Suns,Chris Paul,Devin Booker,Mikal Bridges,Deandre Ayton,Cameron Johnson,-0.43025797801984567,870
+2021,Memphis Grizzlies,Jonas Valanciunas,Kyle Anderson,Dillon Brooks,Ja Morant,Desmond Bane,-1.1912364345571582,1042
+2021,Memphis Grizzlies,Jonas Valanciunas,Kyle Anderson,Dillon Brooks,Grayson Allen,Ja Morant,-1.5055789111062978,1984
+2021,Atlanta Hawks,Clint Capela,Bogdan Bogdanovic,John Collins,Kevin Huerter,Trae Young,10.690595193285272,1104
+2021,Milwaukee Bucks,Brook Lopez,Jrue Holiday,Khris Middleton,Giannis Antetokounmpo,Donte DiVincenzo,-6.26375482913013,2362
+2021,Miami Heat,Trevor Ariza,Jimmy Butler,Bam Adebayo,Duncan Robinson,Kendrick Nunn,-2.2434909224283732,944
+2021,Golden State Warriors,Stephen Curry,Draymond Green,Andrew Wiggins,Kelly Oubre Jr.,James Wiseman,-12.916990808525602,1075
+2021,Golden State Warriors,Stephen Curry,Draymond Green,Kent Bazemore,Andrew Wiggins,Kevon Looney,-3.9926207283329145,1206
+2021,Sacramento Kings,Harrison Barnes,Richaun Holmes,Buddy Hield,De'Aaron Fox,Marvin Bagley III,1.6551458309657674,1762
+2021,Sacramento Kings,Harrison Barnes,Richaun Holmes,Buddy Hield,De'Aaron Fox,Tyrese Haliburton,4.87970873924081,1705
+2021,Atlanta Hawks,Clint Capela,John Collins,Kevin Huerter,Trae Young,Cam Reddish,-13.816412570592483,821
+2021,San Antonio Spurs,DeMar DeRozan,Dejounte Murray,Jakob Poeltl,Derrick White,Keldon Johnson,-2.70906835781895,1371
+2021,Utah Jazz,Mike Conley,Bojan Bogdanovic,Rudy Gobert,Royce O'Neale,Donovan Mitchell,-10.782336231678773,2651
+2021,Utah Jazz,Derrick Favors,Bojan Bogdanovic,Joe Ingles,Royce O'Neale,Donovan Mitchell,-8.10663686310962,822
+2021,Utah Jazz,Mike Conley,Rudy Gobert,Jordan Clarkson,Joe Ingles,Georges Niang,-3.6800249230147486,1446
+2021,Utah Jazz,Derrick Favors,Bojan Bogdanovic,Jordan Clarkson,Royce O'Neale,Donovan Mitchell,4.82551343523743,1339
+2021,Utah Jazz,Bojan Bogdanovic,Rudy Gobert,Joe Ingles,Royce O'Neale,Donovan Mitchell,3.4439553418028837,1333
+2021,Dallas Mavericks,Kristaps Porzingis,Josh Richardson,Dorian Finney-Smith,Maxi Kleber,Luka Doncic,4.261992624250319,1177
+2021,Los Angeles Lakers,LeBron James,Marc Gasol,Anthony Davis,Dennis Schroder,Kentavious Caldwell-Pope,-0.0027817424420746306,1190
+2021,New York Knicks,Reggie Bullock,Elfrid Payton,Julius Randle,Mitchell Robinson,RJ Barrett,-1.0596943148385827,1555
+2021,New York Knicks,Nerlens Noel,Reggie Bullock,Elfrid Payton,Julius Randle,RJ Barrett,-5.223685405089145,2264
+2021,Denver Nuggets,Paul Millsap,Will Barton,Nikola Jokic,Jamal Murray,Michael Porter Jr.,-5.279666474221581,861
+2021,Portland Trail Blazers,Enes Freedom,Damian Lillard,Robert Covington,Derrick Jones Jr.,Gary Trent Jr.,6.420966225999454,1156
+2021,Oklahoma City Thunder,Al Horford,George Hill,Shai Gilgeous-Alexander,Darius Bazley,Luguentz Dort,1.2465910426925784,802
+2021,LA Clippers,Paul George,Marcus Morris Sr.,Kawhi Leonard,Reggie Jackson,Ivica Zubac,2.7874152454921735,941
+2021,Denver Nuggets,Paul Millsap,Will Barton,Gary Harris,Nikola Jokic,Jamal Murray,2.08712081081244,973
+2021,LA Clippers,Serge Ibaka,Nicolas Batum,Patrick Beverley,Paul George,Kawhi Leonard,-3.7614611957727284,1070
+2022,New Orleans Pelicans,Jonas Valanciunas,CJ McCollum,Brandon Ingram,Jaxson Hayes,Herbert Jones,-0.8606633425079941,975
+2022,Utah Jazz,Mike Conley,Bojan Bogdanovic,Rudy Gobert,Royce O'Neale,Donovan Mitchell,-2.8477966687642864,3039
+2022,Utah Jazz,Hassan Whiteside,Bojan Bogdanovic,Jordan Clarkson,Royce O'Neale,Donovan Mitchell,-2.5830091179017245,976
+2022,Toronto Raptors,Pascal Siakam,Fred VanVleet,O.G. Anunoby,Gary Trent Jr.,Scottie Barnes,-6.429943491421528,1367
+2022,Miami Heat,Kyle Lowry,P.J. Tucker,Jimmy Butler,Bam Adebayo,Duncan Robinson,0.06344600575905268,1650
+2022,Atlanta Hawks,Clint Capela,John Collins,Kevin Huerter,Trae Young,De'Andre Hunter,-2.285905918006147,882
+2022,Atlanta Hawks,Danilo Gallinari,Clint Capela,Kevin Huerter,Trae Young,De'Andre Hunter,-5.721427087852508,1072
+2022,LA Clippers,Nicolas Batum,Marcus Morris Sr.,Reggie Jackson,Ivica Zubac,Amir Coffey,-12.26108978740087,896
+2022,Atlanta Hawks,Clint Capela,Bogdan Bogdanovic,John Collins,Trae Young,De'Andre Hunter,-0.08427714277404519,987
+2022,Chicago Bulls,DeMar DeRozan,Nikola Vucevic,Zach LaVine,Javonte Green,Ayo Dosunmu,-5.731769559811337,1007
+2022,Phoenix Suns,Chris Paul,Jae Crowder,Devin Booker,Mikal Bridges,Deandre Ayton,-8.966514628469664,3793
+2022,Boston Celtics,Al Horford,Marcus Smart,Jaylen Brown,Jayson Tatum,Robert Williams III,2.205770822520165,2376
+2022,Minnesota Timberwolves,Patrick Beverley,D'Angelo Russell,Karl-Anthony Towns,Jarred Vanderbilt,Anthony Edwards,0.12900340598737614,2201
+2022,New York Knicks,Alec Burks,Evan Fournier,Julius Randle,Mitchell Robinson,RJ Barrett,-1.295853560748887,1723
+2022,Denver Nuggets,Jeff Green,Will Barton,Aaron Gordon,Nikola Jokic,Monte Morris,-1.4747013638447122,3470
+2022,Charlotte Hornets,Gordon Hayward,Mason Plumlee,Terry Rozier,Miles Bridges,LaMelo Ball,-7.744597985192298,1582
+2022,Washington Wizards,Bradley Beal,Kentavious Caldwell-Pope,Spencer Dinwiddie,Kyle Kuzma,Daniel Gafford,-2.467433942668224,1289
+2022,Brooklyn Nets,Kevin Durant,Kyrie Irving,Andre Drummond,Seth Curry,Bruce Brown,-13.955637666027235,819
+2022,Memphis Grizzlies,Steven Adams,Jaren Jackson Jr.,Ja Morant,Desmond Bane,Ziaire Williams,-6.935097705381446,832
+2022,Detroit Pistons,Cory Joseph,Jerami Grant,Saddiq Bey,Isaiah Stewart,Cade Cunningham,5.720672388747297,1103
+2022,Charlotte Hornets,Mason Plumlee,Terry Rozier,Miles Bridges,P.J. Washington,LaMelo Ball,-0.34965097678668045,1403
+2022,New Orleans Pelicans,Jonas Valanciunas,Brandon Ingram,Josh Hart,Devonte' Graham,Herbert Jones,1.3737048010186523,1364
+2022,Milwaukee Bucks,Jrue Holiday,Khris Middleton,Giannis Antetokounmpo,Bobby Portis,Grayson Allen,-5.968039178403341,1433
+2022,Philadelphia 76ers,Danny Green,Tobias Harris,Seth Curry,Joel Embiid,Tyrese Maxey,-0.016093748032316668,1001
+2022,Philadelphia 76ers,Tobias Harris,Seth Curry,Joel Embiid,Matisse Thybulle,Tyrese Maxey,-21.64238812825438,975
+2022,Oklahoma City Thunder,Shai Gilgeous-Alexander,Darius Bazley,Luguentz Dort,Jeremiah Robinson-Earl,Josh Giddey,-9.866597139202167,1074
+2022,Philadelphia 76ers,James Harden,Tobias Harris,Joel Embiid,Matisse Thybulle,Tyrese Maxey,6.051878537488529,1411
+2022,Dallas Mavericks,Reggie Bullock,Dwight Powell,Dorian Finney-Smith,Jalen Brunson,Luka Doncic,2.446507709358414,1949
+2022,Dallas Mavericks,Reggie Bullock,Dorian Finney-Smith,Maxi Kleber,Jalen Brunson,Luka Doncic,-9.702035274597819,852
+2022,Cleveland Cavaliers,Lauri Markkanen,Jarrett Allen,Darius Garland,Isaac Okoro,Evan Mobley,1.769229804022352,903
+2022,San Antonio Spurs,Doug McDermott,Dejounte Murray,Jakob Poeltl,Derrick White,Keldon Johnson,-3.8822189016234745,1310
+2022,Utah Jazz,Rudy Gay,Mike Conley,Rudy Gobert,Jordan Clarkson,Joe Ingles,2.5604460156178686,916
+2022,Golden State Warriors,Stephen Curry,Draymond Green,Andrew Wiggins,Kevon Looney,Jordan Poole,-11.140199090074185,1515
+2022,Detroit Pistons,Jerami Grant,Killian Hayes,Saddiq Bey,Isaiah Stewart,Cade Cunningham,-12.001582982047172,1029
+2022,Portland Trail Blazers,Damian Lillard,CJ McCollum,Robert Covington,Jusuf Nurkic,Norman Powell,-0.35286121973781737,1149
+2022,Orlando Magic,Mo Bamba,Wendell Carter Jr.,Cole Anthony,Franz Wagner,Jalen Suggs,-3.581432718697826,1727
+2022,New York Knicks,Kemba Walker,Evan Fournier,Julius Randle,Mitchell Robinson,RJ Barrett,-9.695059536363214,1690
+2022,Houston Rockets,Eric Gordon,Christian Wood,Kevin Porter Jr.,Jalen Green,Jae'Sean Tate,5.132351441525222,1461
+2022,Memphis Grizzlies,Steven Adams,Tyus Jones,Dillon Brooks,Jaren Jackson Jr.,Desmond Bane,-10.23682718826721,965
